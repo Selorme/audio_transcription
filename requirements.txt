@@ -1,0 +1,6 @@
+### requirements.txt
+
+```plaintext
+SpeechRecognition
+pydub
+google-cloud-speech
